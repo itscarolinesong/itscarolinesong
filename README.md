@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Yeaeun Song
+# 👋 Hi, I'm Caroline
 
 ### Computer Engineering @ Georgia Tech | AI/ML Researcher | Building Accessible Technology
 
@@ -18,9 +18,7 @@ I'm a sophomore studying **Computer Engineering** with a minor in **Nuclear Radi
 
 - 🔬 Published researcher: Presented at **IEEE ISBI 2024** in Greece on deep learning for medical imaging
 - 🧠 Currently building **brain-computer interfaces** for accessible cursor control
-- 🌍 Deployed real-world solutions: Medical translation tools serving **200+ patients** in underserved communities
 - 💼 Seeking **Summer 2026 internships** in embedded systems, ML/AI, hardware, software engineering, or healthtech
-- 🎓 4.0 GPA | President's List | Former President of Phi Theta Kappa Honor Society
 
 ---
 
