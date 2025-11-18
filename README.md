@@ -1,16 +1,139 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hi, I'm Yeaeun Song
 
-<!--
-**itscarolinesong/itscarolinesong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering @ Georgia Tech | AI/ML Researcher | Building Accessible Technology
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-blue?style=for-the-badge)](https://eportfolio-rose-one.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ysong639%40gatech.edu-red?style=for-the-badge&logo=gmail)](mailto:ysong639@gatech.edu)
+[![Location](https://img.shields.io/badge/Location-Atlanta,_GA-yellow?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Atlanta,+GA/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a sophomore studying **Computer Engineering** with a minor in **Nuclear Radiological Engineering** at Georgia Tech. I'm passionate about creating technology that bridges the gap between complex engineering and real-world humanitarian impact.
+
+- 🔬 Published researcher: Presented at **IEEE ISBI 2024** in Greece on deep learning for medical imaging
+- 🧠 Currently building **brain-computer interfaces** for accessible cursor control
+- 🌍 Deployed real-world solutions: Medical translation tools serving **200+ patients** in underserved communities
+- 💼 Seeking **Summer 2026 internships** in embedded systems, ML/AI, hardware, software engineering, or healthtech
+- 🎓 4.0 GPA | President's List | Former President of Phi Theta Kappa Honor Society
+
+---
+
+## 🔭 Current Projects
+
+### [SynapseX - EEG Cursor Control System](link-when-public)
+Building an end-to-end ML pipeline for brain-computer interfaces using OpenBCI hardware
+- **Tech**: Python, ML (LDA/SVM), Signal Processing (PSD, CCA), Real-time Systems
+- **Goal**: 70% accuracy, <2s response latency for 4-directional cursor control
+- **Timeline**: Demo December 2025
+
+### [TOM:ATL Accessible Website](link-when-public)
+Production-ready platform connecting makers with individuals needing assistive technology
+- **Tech**: Next.js, React, Google Sheets API, WCAG Compliance
+- **Impact**: Serving 3 university campuses (Georgia Tech, Emory, KSU)
+- **Features**: 6 accessibility features including text-to-speech, dynamic sizing, color inversion
+
+---
+
+## 🏆 Featured Research & Work
+
+### 🩺 Deep Learning for Medical Imaging
+**Striatum Segmentation Model** | *Aug 2023 - Present*
+- Presented "Striatum Segmentation Deep Learning Model in F-18 FP-CIT PET/CT Images" at **21st International Symposium on Biomedical Imaging (ISBI)**, Greece 2024
+- Processed and analyzed **600+ PET/CT scan datasets** to validate automated segmentation accuracy
+- **Tech**: PyTorch, nnU-Net, Medical Image Processing
+
+### 🌏 Humanitarian Technology
+**Korean-Mongolian Medical Translation Tool** | *July 2024*
+- Developed speech-to-speech translation system deployed during medical mission in Mongolia
+- Enabled real-time communication for **200+ patients** and **20+ healthcare workers**
+- **Tech**: Python, Speech Recognition, Translation APIs, Low-resource Deployment
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Yeaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscarolinesong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscarolinesong&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 💼 What I'm Looking For
+
+I'm actively seeking **Summer 2026 internship opportunities** in:
+- 🔧 **Embedded Systems / Firmware Engineering**
+- 🖥️ **Hardware Engineering / Systems Infrastructure**
+- 💻 **Software Engineering** (Backend, Full-stack)
+- 🤖 **Machine Learning / Computer Vision**
+- 🏥 **HealthTech / Biomedical Engineering**
+
+**Authorized to work in the U.S.** (F-1 OPT/CPT eligible)
+
+---
+
+## 🌟 Beyond the Code
+
+- 📝 **Content Editor** @ The Tower (Georgia Tech's undergraduate research journal)
+- 🎖️ Former **President** of Phi Theta Kappa Honor Society (100+ members)
+- 🌐 Former **President** of International Student Ambassadors
+- 🎓 **Math & Science Tutor** for underserved students through TRIO program
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in discussing technology, research opportunities, or potential collaborations!
+
+[![Email](https://img.shields.io/badge/Email-ysong639%40gatech.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysong639@gatech.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eportfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eportfolio-rose-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itscarolinesong/)
+
+---
+
+<div align="center">
+  
+*"Building technology that matters, one commit at a time"* 💻✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=itscarolinesong&color=blue&style=flat)
+
+</div>
