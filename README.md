@@ -26,13 +26,13 @@ I'm a sophomore studying **Computer Engineering** with a minor in **Nuclear Radi
 
 ## 🔭 Current Projects
 
-### [SynapseX - EEG Cursor Control System](link-when-public)
+### [Synapse X - EEG Cursor Control System](https://gtsynapsex.com/)
 Building an end-to-end ML pipeline for brain-computer interfaces using OpenBCI hardware
 - **Tech**: Python, ML (LDA/SVM), Signal Processing (PSD, CCA), Real-time Systems
 - **Goal**: 70% accuracy, <2s response latency for 4-directional cursor control
 - **Timeline**: Demo December 2025
 
-### [TOM:ATL Accessible Website](link-when-public)
+### [TOM:ATL Accessible Website](https://tomatl-theta.vercel.app/)
 Production-ready platform connecting makers with individuals needing assistive technology
 - **Tech**: Next.js, React, Google Sheets API, WCAG Compliance
 - **Impact**: Serving 3 university campuses (Georgia Tech, Emory, KSU)
@@ -48,11 +48,14 @@ Production-ready platform connecting makers with individuals needing assistive t
 - Processed and analyzed **600+ PET/CT scan datasets** to validate automated segmentation accuracy
 - **Tech**: PyTorch, nnU-Net, Medical Image Processing
 
-### 🌏 Humanitarian Technology
-**Korean-Mongolian Medical Translation Tool** | *July 2024*
-- Developed speech-to-speech translation system deployed during medical mission in Mongolia
-- Enabled real-time communication for **200+ patients** and **20+ healthcare workers**
-- **Tech**: Python, Speech Recognition, Translation APIs, Low-resource Deployment
+### 💻 Healthcare AI & Privacy
+**DocuBridge.ai - Secure Local OCR System** | *HackGT 12*
+- Built fully local OCR platform processing medical records with **100% on-device computation** to ensure patient privacy
+- Reduced physician documentation time by eliminating redundant retyping of faxed EMRs into pathology reports
+- Implemented custom regex patterns for field extraction across varied EMR formats with AI-powered refinement
+- **Tech**: React, TypeScript, Next.js, Tesseract.js, Ollama, Cedar OS
+- **Impact**: Zero data transmission, customizable for multiple EMR formats, secure PDF export
+- [View Project](https://devpost.com/software/docubridge-ai)
 
 ---
 
@@ -102,7 +105,7 @@ I'm actively seeking **Summer 2026 internship opportunities** in:
 ## 🌟 Beyond the Code
 
 - 📝 **Content Editor** @ The Tower (Georgia Tech's undergraduate research journal)
-- 🎖️ Former **President** of Phi Theta Kappa Honor Society (100+ members)
+- 🎖️ Former ** Chapter President** of Phi Theta Kappa Honor Society (100+ members)
 - 🌐 Former **President** of International Student Ambassadors
 - 🎓 **Math & Science Tutor** for underserved students through TRIO program
 
