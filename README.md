@@ -4,9 +4,9 @@
 
 ### Computer Engineering @ Georgia Tech | AI/ML Researcher | Building Accessible Technology
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-blue?style=for-the-badge)](https://eportfolio-rose-one.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-ysong639%40gatech.edu-red?style=for-the-badge&logo=gmail)](mailto:ysong639@gatech.edu)
-[![Location](https://img.shields.io/badge/Location-Atlanta,_GA-yellow?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Atlanta,+GA/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4A90E2?style=flat-square&logo=google-chrome&logoColor=white)](https://eportfolio-rose-one.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ysong639@gatech.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ysong639@gatech.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itscarolinesong/)
 
 </div>
 
@@ -86,18 +86,6 @@ Production-ready platform connecting makers with individuals needing assistive t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Yeaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=itscarolinesong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscarolinesong&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 💼 What I'm Looking For
 
 I'm actively seeking **Summer 2026 internship opportunities** in:
@@ -120,20 +108,8 @@ I'm actively seeking **Summer 2026 internship opportunities** in:
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always interested in discussing technology, research opportunities, or potential collaborations!
-
-[![Email](https://img.shields.io/badge/Email-ysong639%40gatech.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysong639@gatech.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-eportfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eportfolio-rose-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itscarolinesong/)
-
----
-
 <div align="center">
   
 *"Building technology that matters, one commit at a time"* 💻✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=itscarolinesong&color=blue&style=flat)
 
 </div>
