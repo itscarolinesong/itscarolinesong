@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Caroline
 
-### Computer Engineering @ Georgia Tech | AI/ML Researcher | Building Accessible Technology
+### Biomedical Engineering @ Georgia Tech | Pre-Dental 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4A90E2?style=flat-square&logo=google-chrome&logoColor=white)](https://eportfolio-rose-one.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-ysong639@gatech.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ysong639@gatech.edu)
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a sophomore studying **Computer Engineering** with a minor in **Nuclear Radiological Engineering** at Georgia Tech. I'm passionate about creating technology that bridges the gap between complex engineering and real-world humanitarian impact.
+I'm a sophomore studying **Biomedical Engineering** at Georgia Tech. I'm passionate about creating technology that bridges the gap between complex engineering and real-world humanitarian impact.
 
 - 🔬 Published researcher: Presented at **IEEE ISBI 2024** in Greece on deep learning for medical imaging
 - 🧠 Currently building **brain-computer interfaces** for accessible cursor control
